@@ -1,4 +1,13 @@
 # datamodels
 Homework 0: INFO 330: DataModel Ontology
 
-*Redis: datamodels/redis.md
+* Redis: redis.md
+
+DB2
+Postgres
+MariaDB
+MongoDB
+CosmosDB
+Couchbase
+Redis
+Neo4j
