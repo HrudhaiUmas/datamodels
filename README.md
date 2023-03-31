@@ -1,7 +1,7 @@
 # datamodels
 Homework 0: INFO 330: DataModel Ontology
 
-* Redis: redis.md
+* Redis: [redis.md](redis.md)
 * DB2: db2.md
 * PostgreSQL: postgreSQL.md
 * MariaDB: mariaDB.md
