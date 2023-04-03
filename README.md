@@ -31,5 +31,5 @@
 
 ## Extra Credit: 
 
-Time-Series Based Model: Database Management System
+* Time-Series Based Model: Database Management System
     * TimescaleDB: [TimescaleDB.md](TimeScale.md)
