@@ -11,7 +11,7 @@
 ## Database Products
 
 * Graph Based Model: Database Management System Product
-    * TigerGraph: [tigerGraph.md](tigerGraph.md)
+    * TigerGraph: [tigerGraph.md](TigerGraph.md)
 
 * Relational Based Model: Database Management System Products
     * PostgreSQL: [PostgreSQL.md](PostgreSQL.md)
@@ -26,7 +26,7 @@
     * Microsoft CosmosDB: [CosmosDB.md](CosmosDB.md)
 
 * Column Oriented Based Model: Database Management System Products 
-    * Apache CassandraDB: [CosmosDB.md](CosmosDB.md)
+    * Apache CassandraDB: [CosmosDB.md](CassandraDB.md)
 
 
 Extra Credit: 
