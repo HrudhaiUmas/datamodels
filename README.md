@@ -29,5 +29,7 @@
     * Apache CassandraDB: [CassandraDB.md](CassandraDB.md)
 
 
-Extra Credit: 
+## Extra Credit: 
 
+Time-Series Based Model: Database Management System
+    * TimescaleDB: [TimescaleDB.md](TimeScale.md)
