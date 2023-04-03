@@ -9,6 +9,9 @@
     * how Java or Python access it?
 
 ## Database Products
+
+* Graph Based Model: Database Management System Product
+    * TigerGraph: [tigerGraph.md](tigerGraph.md)
 * Redis: [redis.md](redis.md)
 * DB2: db2.md
 * PostgreSQL: postgreSQL.md
