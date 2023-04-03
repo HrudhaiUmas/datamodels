@@ -26,7 +26,7 @@
     * Microsoft CosmosDB: [CosmosDB.md](CosmosDB.md)
 
 * Column Oriented Based Model: Database Management System Products 
-    * Apache CassandraDB: [CosmosDB.md](CassandraDB.md)
+    * Apache CassandraDB: [CassandraDB.md](CassandraDB.md)
 
 
 Extra Credit: 
