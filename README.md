@@ -12,14 +12,22 @@
 
 * Graph Based Model: Database Management System Product
     * TigerGraph: [tigerGraph.md](tigerGraph.md)
-* Redis: [redis.md](redis.md)
-* DB2: db2.md
-* PostgreSQL: postgreSQL.md
-* MariaDB: mariaDB.md
-* MongoDB: mongoDB.md
-* CosmosDB: cosmosDB.md
-* CouchbaseDB: couchbase.md
-* Neo4j: neo4j.md
+
+* Relational Based Model: Database Management System Products
+    * PostgreSQL: [PostgreSQL.md](PostgreSQL.md)
+    * IBM Db2: [IBMDb2.md](IBMDb2.md)
+    * Oracle: [OracleDB.md](OracleDB.md)
+    * MariaDB: [MariaDB.md](MariaDB.md)
+
+* Document Based Model: Database Management System Products 
+    * MongoDB: [MongoDB.md](MongoDB.md)
+
+* Multi-Model Based Model: Database Management System Products 
+    * Microsoft CosmosDB: [CosmosDB.md](CosmosDB.md)
+
+* Column Oriented Based Model: Database Management System Products 
+    * Apache CassandraDB: [CosmosDB.md](CosmosDB.md)
+
 
 Extra Credit: 
 
