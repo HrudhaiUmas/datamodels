@@ -11,7 +11,7 @@
 ## Database Products
 
 * Graph Based Model: Database Management System Product
-    * TigerGraph: [tigerGraph.md](TigerGraph.md)
+    * TigerGraph: [TigerGraph.md](TigerGraph.md)
 
 * Relational Based Model: Database Management System Products
     * PostgreSQL: [PostgreSQL.md](PostgreSQL.md)
